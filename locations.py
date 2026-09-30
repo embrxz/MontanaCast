@@ -1,6 +1,7 @@
 locations = {
-    "Bozeman": {
-        "latitude": 45.6770,
-        "longitude": -111.0429
+    "Gallatin River - Big Sky": {
+        "latitude": 45.29728,
+        "longitude": -111.21139,
+        "usgs_station": "06043120"
     }
 }
